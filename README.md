@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white"/></a>&nbsp;
-
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://arduino.cc/)
 
 ### 👀Profile👀
 > - __Name__
