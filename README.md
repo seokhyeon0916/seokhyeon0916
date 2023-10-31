@@ -41,7 +41,7 @@
 > 한림 창업아이디어 경진대회 참여(2020년도)<br>
 > 소프트웨어융합대학 3대 SW week 참여(2020년도)   \[[프로젝트 보기](https://github.com/seokhyeon0916/omok_online)\]<br>
 > 파이썬과학기초프래밍 수업 기말 프로젝트(2023년도) \[[프로젝트 보기](https://github.com/seokhyeon0916/Term-Project)\]<br>
-> 소프트웨어융합대학 6대 SW week 참여(2023년도)<br>
+> 소프트웨어융합대학 6대 SW week 참여(2023년도) \[[프로젝트 보기](https://github.com/seokhyeon0916/AUTO-RC-CAR)\]<br>
 ### 📖 CLASS 📖 
 |학기|과목명|학기|과목명|
 |:---:|:---:|:---:|:---:|
