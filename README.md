@@ -44,10 +44,18 @@
 
 ### 👨‍🎓Project👨‍🎓
 > 한림 창업아이디어 경진대회 참가(2020년도)<br>
-> 소프트웨어융합대학 3대 SW week 참가(2020년도)   \[[프로젝트 보기](https://github.com/seokhyeon0916/omok_online)\]<br>
-> 파이썬과학기초프래밍 수업 기말 프로젝트(2023년도) \[[프로젝트 보기](https://github.com/seokhyeon0916/Term-Project)\]<br>
-> 소프트웨어융합대학 6대 SW week 참가(2023년도) \[[프로젝트 보기](https://github.com/seokhyeon0916/AUTO-RC-CAR)\]<br>
-> 정보과학대학 학술제 참가(2023년도)\[[프로젝트 보기](https://github.com/seokhyeon0916/MBTI_fall_in_love)\]<br>
+
+> 소프트웨어융합대학 3대 SW week 참가(2020년도)
+>> 프로젝트 이름 : 오목한판정도는 괜찮잖아?  \[[프로젝트 보기](https://github.com/seokhyeon0916/omok_online)\]<br>
+
+> 파이썬과학기초프래밍 수업 기말 프로젝트(2023년도)<br>
+>> 프로젝트 이름 : Term project \[[프로젝트 보기](https://github.com/seokhyeon0916/Term-Project)\]<br>
+
+> 소프트웨어융합대학 6대 SW week 참가(2023년도)<br>
+>> 프로젝트 이름 : 나는야 폭주 RC카\[[프로젝트 보기](https://github.com/seokhyeon0916/AUTO-RC-CAR)\]<br>
+
+> 정보과학대학 학술제 참가(2023년도)
+>> 프로젝트 이름 : MBTI FALL IN LOVE\[[프로젝트 보기](https://github.com/seokhyeon0916/MBTI_fall_in_love)\]<br>
 ### 📖 CLASS 📖 
 |학기|과목명|학기|과목명|
 |:---:|:---:|:---:|:---:|
