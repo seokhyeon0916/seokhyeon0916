@@ -54,7 +54,7 @@
 > 소프트웨어융합대학 6대 SW week 참가(2023년도)<br>
 >> 프로젝트 이름 : 나는야 폭주 RC카\[[프로젝트 보기](https://github.com/seokhyeon0916/AUTO-RC-CAR)\]<br>
 
-> 정보과학대학 학술제 참가(2023년도)
+> 정보과학대학 학술제 참가-장려상🥉(2023년도)
 >> 프로젝트 이름 : MBTI FALL IN LOVE\[[프로젝트 보기](https://github.com/seokhyeon0916/MBTI_fall_in_love)\]<br>
 ### 📖 CLASS 📖 
 |학기|과목명|학기|과목명|
