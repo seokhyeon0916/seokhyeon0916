@@ -60,6 +60,13 @@
 
 > 정보과학대학 학술제 참가-장려상🥉(2023년도)
 >> 프로젝트 이름 : MBTI FALL IN LOVE\[[프로젝트 보기](https://github.com/seokhyeon0916/MBTI_fall_in_love)\]<br>
+
+> 임베디드 시스템 수업 기말 프로젝트(2023년도)<br>
+>>프로젝트 이름 : security_guard_system\[[프로젝트 보기](https://github.com/seokhyeon0916/security_guard_system)\]<br>
+
+> 한림대학교 창업동아리 GYMGYM(2024년도)
+>> 프로젝트 이름 : GYMGYM대지마\[[프로젝트 보기](https://github.com/seokhyeon0916/GYMGYM)\]<br>
+
 ### 📖 CLASS 📖 
 |학기|과목명|학기|과목명|
 |:---:|:---:|:---:|:---:|
