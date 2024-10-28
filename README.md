@@ -125,7 +125,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" style="height : 40px;"/>
 
   ### 2024년 1학기 ▶ IoT네트워크 기말 프로젝트
-  ## \[[프로젝트 보기](https://github.com/seokhyeon0916/security_guard_system)\]
+  ## \[[프로젝트 보기](https://github.com/seokhyeon0916/IoT_Network)\]
 
   <img src="https://img.shields.io/badge/Mongo DB-47A248?style=for-the-badge&logo=Mongo DB&logoColor=FFFFFF" style="height : 40px;"/>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=FFFFFF" style="height : 40px;"/>
