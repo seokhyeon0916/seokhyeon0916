@@ -137,7 +137,7 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=FFFFFF" style="height : 40px;"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" style="height : 40px;"/>
   
-  ### 2024년 1학기 ▶ 한림대학교 CIC 연구실 연구과제
+  ### 2024년 2학기-ing ▶ 한림대학교 CIC 연구실 연구과제
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/CSI)\]
   
 
