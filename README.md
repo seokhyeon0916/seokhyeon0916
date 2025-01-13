@@ -142,6 +142,9 @@
   ### 2024년 2학기-ing ▶ 한림대학교 CIC 연구실 연구과제
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/CSI)\]
   
-
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=FFFFFF" style="height : 40px;"/>
+  
+  ### 2024년 2학기 ▶ 오픈소스하드웨어응용 기말 프로젝트트
+  ## \[[프로젝트 보기](https://github.com/seokhyeon0916/Arduino-Security-System.git)\]
   
 
