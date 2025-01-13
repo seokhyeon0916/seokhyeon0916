@@ -150,6 +150,6 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=FFFFFF" style="height : 40px;"/>
   
   ### 2024년 2학기 ▶ 빅데이터개론 기말 프로젝트
-  ## \[[프로젝트 보기](https://github.com/seokhyeon0916/BigData-Final-Project.git))\]
+  ## \[[프로젝트 보기](https://github.com/seokhyeon0916/BigData-Final-Project.git)\]
   
 
