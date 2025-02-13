@@ -5,7 +5,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=w010916)](https://solved.ac/w010916)
 
 ### 🔥GitHub stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokhyeon0916&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)![Seok hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokhyeon0916&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokhyeon0916&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ♦️Stack♦️
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
@@ -27,6 +27,8 @@
 >> woonsuck0916@gmail.com
 > - __GitHub__
 >> [https://github.com/seokhyeon0916]
+> - __LAB__
+>> [https://cic.hallym.ac.kr/]
 > - __🏫Academic Ability🏫__
 >> __증포초등학교 졸업__ <br>
 >> __오남중학교 졸업__  <br> 
@@ -36,28 +38,31 @@
 >> + 복수전공 : 빅데이터
 
 ### 🏆Activity🏆
-> '학기우등' 1학년 1학기 학점평균 4.15(2020년도)<br>
-> '학기우등' 1학년 2학기 학점평균 4.07(2020년도)<br>
-> 'sw인재장학금' (2021년도)<br>
-> '학기우등' 2학년 2학기 학점평균 4.12(2023년도)<br>
-> 'sw인재장학금' (2024년도)<br>
-> '학기우등' 3학년 1학기 학점평균 4.08(2024년도)<br>
-> 'sw인재장학금' / 학과 수석(2024년도)<br>
-> '학기우등' 3학년 2학기 학점평균 4.00(2024년도)<br>
+- '학기우등' 1학년 1학기 학점평균 4.15(2020년도)<br>
+- '학기우등' 1학년 2학기 학점평균 4.07(2020년도)<br>
+- 'sw인재장학금' (2021년도)<br>
+- '학기우등' 2학년 2학기 학점평균 4.12(2023년도)<br>
+- 'sw인재장학금' (2024년도)<br>
+- '학기우등' 3학년 1학기 학점평균 4.08(2024년도)<br>
+- 한림대학교 'CIC LAB' 학부연구생(2024)
+- 'sw인재장학금' / 학과 수석(2024년도)<br>
+- '학기우등' 3학년 2학기 학점평균 4.00(2024년도)<br>
 
-### 🔫Army🔫
->제5군단 사령부 제 145정보대대 병장 만기전역(2022)<br>
+## 🏆 Awards
+- Hallym University 정보과학대학 학술제 장려상(2023년도)<br>
+- Hallym University GitHub 콘테스트 동상(2024년도)🥉<br>
 
-### 📃Career📃
-> 한림대학교 소프트웨어융합대학 입학(2020)<br>
-> 신입생 몰입형 SW코딩캠프 참여(2020)<br>
-> 한림대학교 학술동아리 씨애랑 임베디드 팀 '코어'활동(2020,2023)<br>
-> 한림대학교 스마트IoT 학생회 'ToU' 대외국장(2023)<br>
-> 한림대학교 학술동아리 씨애랑 앱 팀 '라떼'활동(2024)<br>
-> 한림대학교 스마트IoT 학생회 'BackEND' 학생회장(2024)<br>
-> 한림대학교 'CIC LAB' 학부연구생(2024) -> 연구실 홈페이지(https://cic.hallym.ac.kr/)<br>
-> 한림대학교 정보과학대학 학생회 'ZIP' 대외협력국장(2025)<br>
-> 한림대학교 정보과학대학 축구동아리 ' 일레븐'부회장(2025)<br>
+## 🏃‍♂️ Student Union 
+- 2020년도 한림대학교 소프트웨어융합대학 입학
+- 2020년도 한림대학교 신입생 몰입형 SW코딩캠프 참여
+- 2020년도 교내 소프트웨어융합대학 학술동아리 C.愛.랑 임베디드 팀 '코어' 활동
+- 2023년도 제 5대 스마트IoT 학생회 'ToU' 대외국장
+- 2023년도 교내 정보과학대학 학술동아리 C.愛.랑 임베디드 팀 '코어' 활동
+- 2024년도 교내 정보과학대학 학술동아리 C.愛.랑 앱 팀 '라떼' 활동
+- 2024년도 교내 소프트웨어융합대학 학술동아리 C.愛.랑 인공지능(텐서) 팀원
+- 2024년도 제 6대 스마트IoT 학생회 'BackEND' 학생회장
+- 2025년도 제 4대 정보과학대학 학생회 'ZIP' 대외협력국장
+- 2025년도 정보과학대학 축구동아리 '일레븐' 부회장
 
 ### 📖 CLASS 📖 
 |학기|과목명|학점|학기|과목명|학점
@@ -78,8 +83,8 @@
 |2023-2|소프트웨어특강|B+|-|-|-|
 
 ### ✏️Grade✏️
-> `전체 평점` 4.02(24년 2학기 기준)<br>
-> `전공 평점` 4.05(24년 2학기 기준)<br>
+- `전체 평점` 4.02(24년 2학기 기준)<br>
+- `전공 평점` 4.05(24년 2학기 기준)<br>
 
 ---
 
