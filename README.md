@@ -1,5 +1,3 @@
-##### 👋 Hi total 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokhyeon0916&count_bg=%235560C8&title_bg=%238F91BA&icon=chupachups.svg&icon_color=%23D9BBBB&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ### Hi there 👋
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=w010916)](https://solved.ac/w010916)
