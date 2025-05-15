@@ -119,15 +119,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=FFFFFF" style="height : 40px;"/>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=FFFFFF" style="height : 40px;"/>
 
-  ### 2023년 2학기 ▶ 임베디드 시스템 기말 프로젝트
-  ## \[[프로젝트 보기](https://github.com/seokhyeon0916/security_guard_system)\]
-
-  <img src="https://img.shields.io/badge/Mongo DB-47A248?style=for-the-badge&logo=Mongo DB&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" style="height : 40px;"/>
-
   ### 2024년 1학기 ▶ IoT네트워크 기말 프로젝트
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/IoT_Network)\]
 
