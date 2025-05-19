@@ -35,7 +35,7 @@
 | Category | Title                                                              | Date     | Description                                                  |
 | -------- | -----------------------------------------------------------| -------- | ------------------------------------------------------------ |
 | Paper    | IEEE 802.15.4 DSME 네트워크에서 결정적 종단 간 지연을 위한 프레임 분할 기반 자원 할당 기법 연구 | 2024.06  | 한국디지털콘텐츠학회 논문 등록|
-| Paper    | 채널 상태 정보를 활용한 합성곱 신경만 기반 인간 행동 인식 시스템 구현| 2025.02  | 한국통신학회 등록(19B-P-43) 및 포스터 발표|
+| Paper    | 채널 상태 정보를 활용한 합성곱 신경망망 기반 인간 행동 인식 시스템 구현| 2025.02  | 한국통신학회 등록(19B-P-43) 및 포스터 발표|
 
 </br>
 
@@ -166,7 +166,7 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></br>
   <img src="https://img.shields.io/badge/FLutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  
   
   ### 2025년 1학기 ▶ 소프트웨어 캡스톤 디자인 졸업작품
   #### Wi-Fi-의 채널 상태 정보를 활용한 온라인 강의 출결 시스템 개발
