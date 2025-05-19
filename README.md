@@ -93,66 +93,86 @@
 
 ### 📄Project📄
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   
-  ### 2020년 2학기 ▶ 한림대학교 소프트웨어융합대학 3대 SW week 참가
-  #### 🏅입선🏅 
+  ### 2020년 2학기 ▶ 한림대학교 소프트웨어융합대학 3대 SW week 참가 🏅입선🏅
+  #### 웹사이트로 구현한 간단한 오목 게임, 수 무르기와 3*3 규칙을 적용하고 시간 제한이 존재
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/omok_online)\]
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/SpyderIDE-FF0000?style=for-the-badge&logo=SpyderIDE&logoColor=FFFFFF" style="height : 40px;"/>
-  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <img src="https://img.shields.io/badge/SpyderIDE-FF0000?style=for-the-badge&logo=SpyderIDE&logoColor=white">
+
+
   ### 2023년 1학기 ▶ 파이썬과학프로그래밍기초 기말 프로젝트
+  #### 파이썬 모듈을 이용하여 사용자의 개인정보를 입력받고 각 데이터의 자료를 그래프화 하는 프로그램
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/Term-Project)\]
 
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 
-  ### 2023년 2학기 ▶ 한림대학교 정보과학대학 6대 SW week 참가
-  #### 🏅입선🏅 
+  ### 2023년 2학기 ▶ 한림대학교 정보과학대학 6대 SW week 참가 🏅입선🏅 
+  #### 아두이노와 앱을 사용한 무선 조종 RC카, 장애물 감지시 자동으로 후진하여 장애물 회피 기능 추가
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/AUTO-RC-CAR)\]
 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
-  ### 2023년 2학기 ▶ 한림대학교 정보과학대학 학술제 참가
-  #### 🥉장려상🥉
+  ### 2023년 2학기 ▶ 한림대학교 정보과학대학 학술제 참가 🥉장려상🥉
+  #### 웹페이지로 구현한 MBTI 검사, 결과가 표시되면 결과와 같이 궁합이 잘 맞는 MBTI를 추천
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/MBTI_fall_in_love)\]
 
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=FFFFFF">
+   <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=FFFFFF">
 
   ### 2024년 1학기 ▶ IoT네트워크 기말 프로젝트
+  #### 
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/IoT_Network)\]
 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/FLutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/FLutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF"/>
 
   ### 2024년 1학기 ▶ 한림대학교 창업동아리 GYMGYM
+  #### 날씨 공공 API를 사용하여 MQTT 통신 시스템을 구현한 기상 정보 시스템 웹 서비스
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/GYMGYM)\]
 
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white)
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  
   ### 2024년 2학기-ing ▶ 한림대학교 CIC 연구실 연구과제
+  #### KETI과제, 무선 Wi-Fi의 CSI를 활용한 인간 행동 인식 시스템 구현
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/CSI)\]
   
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   
   ### 2024년 2학기 ▶ 오픈소스하드웨어응용 기말 프로젝트
+  #### 아두이노를 활용한 RFID 기반 보안 시스템 설계 및 구현
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/Arduino-Security-System.git)\]
 
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=FFFFFF"/>
   
   ### 2024년 2학기 ▶ 빅데이터개론 기말 프로젝트
+  #### 흉부 수술 데이터의 상관 분석 및 예측 모델 개발 및 구현
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/BigData-Final-Project.git)\]
 
+  <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></br>
+  <img src="https://img.shields.io/badge/FLutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  
+  ### 2025년 1학기 ▶ 소프트웨어 캡스톤 디자인 졸업작품
+  #### Wi-Fi-의 채널 상태 정보를 활용한 온라인 강의 출결 시스템 개발
+  
 
+---
 
   ### 🔥Back Joon&GitHub stats
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=w010916)](https://solved.ac/w010916)
