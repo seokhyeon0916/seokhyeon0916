@@ -5,7 +5,7 @@
 > - __Name__
 >> 운석현 (seok hyeon Woon)
 > - __E-mail__
->> woonsuck0916@gmail.com
+>> woonseok0916@gmail.com
 > - __GitHub__
 >> [https://github.com/seokhyeon0916]
 > - __LAB__
