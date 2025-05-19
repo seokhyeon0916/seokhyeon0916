@@ -94,8 +94,8 @@
 ### 📄Project📄
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   
   ### 2020년 2학기 ▶ 한림대학교 소프트웨어융합대학 3대 SW week 참가
   #### 🏅입선🏅 
@@ -107,16 +107,16 @@
   ### 2023년 1학기 ▶ 파이썬과학프로그래밍기초 기말 프로젝트
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/Term-Project)\]
 
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=FFFFFF" style="height : 40px;"/>
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=FFFFFF" style="height : 40px;"/>
 
   ### 2023년 2학기 ▶ 한림대학교 정보과학대학 6대 SW week 참가
   #### 🏅입선🏅 
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/AUTO-RC-CAR)\]
 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
   ### 2023년 2학기 ▶ 한림대학교 정보과학대학 학술제 참가
   #### 🥉장려상🥉
@@ -129,20 +129,20 @@
   ### 2024년 1학기 ▶ IoT네트워크 기말 프로젝트
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/IoT_Network)\]
 
-  <img src="https://img.shields.io/badge/Mongo DB-47A248?style=for-the-badge&logo=Mongo DB&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/FLutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF" style="height : 40px;"/>
 
   ### 2024년 1학기 ▶ 한림대학교 창업동아리 GYMGYM
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/GYMGYM)\]
 
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" style="height : 40px;"/>
-  
+  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white)
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   ### 2024년 2학기-ing ▶ 한림대학교 CIC 연구실 연구과제
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/CSI)\]
   
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=FFFFFF" style="height : 40px;"/>
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   
   ### 2024년 2학기 ▶ 오픈소스하드웨어응용 기말 프로젝트
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/Arduino-Security-System.git)\]
