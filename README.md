@@ -129,7 +129,7 @@
    <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=FFFFFF">
 
   ### 2024년 1학기 ▶ IoT네트워크 기말 프로젝트
-  #### 
+  #### 날씨 공공 API를 사용하여 MQTT 통신 시스템을 구현한 기상 정보 시스템 웹 서비스
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/IoT_Network)\]
 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
@@ -137,7 +137,7 @@
   <img src="https://img.shields.io/badge/FLutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF"/>
 
   ### 2024년 1학기 ▶ 한림대학교 창업동아리 GYMGYM
-  #### 날씨 공공 API를 사용하여 MQTT 통신 시스템을 구현한 기상 정보 시스템 웹 서비스
+  #### ----
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/GYMGYM)\]
 
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white)
