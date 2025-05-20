@@ -1,6 +1,5 @@
 ### 👀Profile👀
-<img src="https://github.com/user-attachments/assets/ed8eea0c-deae-408d-95a2-5c7ec8bf4498" width="150" height="199">
-
+<img src="https://github.com/user-attachments/assets/17aec8ce-458e-441a-8a05-151c7dd2b91a" width="150" height="199">
 
 > - __Name__
 >> 운석현 (seok hyeon Woon)
