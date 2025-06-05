@@ -167,7 +167,7 @@
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=FFFFFF"/>
   
   
-  ### 2025년 1학기 ▶ 소프트웨어 캡스톤 디자인 경진작품 🥉동상🥉
+  ### 2025년 1학기 ▶ 소프트웨어 캡스톤 디자인 경진작품 🥈은상🥈
   #### Wi-Fi-의 채널 상태 정보를 활용한 온라인 강의 출결 시스템 개발
   ## \[[프로젝트 보기](https://github.com/seokhyeon0916/AttenSense.git)\]
 
