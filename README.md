@@ -50,8 +50,9 @@
 </br>
 
 ## 🏆 Awards
-- Hallym University 정보과학대학 학술제 장려상(2023년도)<br>
-- Hallym University GitHub 콘테스트 동상(2024년도)🥉<br>
+- Hallym University 정보과학대학 학술제 "장려상"(2023년도)<br>
+- Hallym University GitHub 콘테스트 "동상"(2024년도)🥉<br>
+- Hallym University SW중심대학 소프트웨어 캡스톤 디자인 "은상"(2025년도)🥈<br>
 </br>
 
 ## 🏃‍♂️ Student Union 
